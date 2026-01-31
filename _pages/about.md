@@ -7,6 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+
+
+
+
 I am a postdoctoral research fellow in translational neuroscience, driven by a fascination with the brain as one of the most complex and remarkable systems we know. My research combines neuroimaging, data analysis, and psychology to explore how brain structure and function support emotion, appetite, and behaviour across both typical and clinical populations, with a particular focus on eating disorders, autism, and avoidant/restrictive food intake disorder (ARFID).
 
 I completed my PhD in Translational Neuroscience at the University of Aberdeen, where I used advanced neuroimaging methods to investigate emotional and appetitive regulation in eating disorders. I previously obtained a First Class BSc in Neuroscience with Psychology, also at the University of Aberdeen, where I was awarded the Stewart Bourner Prize for my dissertation working on Field-Cycling Imaging (FCI) MRI approaches. These experiences shaped my interest in translational, data-driven research that bridges brain, behaviour, and clinical relevance.
