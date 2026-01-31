@@ -7,5 +7,5 @@ excerpt: '__Abstract:__ EDAC (Eating Disorders and Autism Collaborative) is an i
 date: 2025-08-01
 venue: 'BJPsych Bulletin'
 paperurl: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC12314410/'
-citation: 'Duffy, F., Gillespie-Smith, K., Sharpe, H., Buchan, K., Nimbley, E., Maloney, E., <b>Sader, M.,</b> ... & Tchanturia, K. (2024). Eating Disorder and Autism Collaborative project outline: promoting eating disorder research embedded in a neurodiversity-affirming culture. _BJPsych bulletin_, 1-6.'
+citation: 'Duffy, F., Gillespie-Smith, K., Sharpe, H., Buchan, K., Nimbley, E., Maloney, E., <b>Sader, M.,</b> ... & Tchanturia, K. (2024). Eating Disorder and Autism Collaborative project outline: promoting eating disorder research embedded in a neurodiversity-affirming culture. BJPsych bulletin, 1-6.'
 ---
