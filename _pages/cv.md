@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: sadermichelle.github.io/cv/
 author_profile: true
 redirect_from:
   - /resume
