@@ -79,9 +79,6 @@ Recent Publications (_Full list available on Publications tab_)
 2.	 **Sader, M.,** Weston., A., Buchan, K., Kerr-Gaffney, J., Sharpe, H., Gillespie-Smith, K., Duffy, F. (2025) The Co-occurrence of Autism and Avoidant/Restrictive Food Intake Disorder (ARFID): A Prevalence-Based Meta-Analysis. International Journal of Eating Disorders. 
 3.	**Sader, M.,** Maloney, E., Waiter, G., Kerr-Gaffney, J., Tchanturia, K., Gillespie-Smith, K., Duffy, F. (2024) Ethical Complexities and Concerns Surrounding Magnetic Resonance Imaging and the Open-Access Scientific Framework in Autism Research. Autism in Adulthood. 
 4.	 **Sader, M.,** Harris, H. A., Waiter, G. D., Jansen, P. W., Williams, J. H., & White, T. (2024). Neural correlates of children with avoidant restrictive food intake disorder symptoms: large‐scale neuroanatomical analysis of a paediatric population. Journal of Child Psychology and Psychiatry. 
- <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
   
 Teaching
