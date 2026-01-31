@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: sadermichelle.github.io/cv/
 author_profile: true
 redirect_from:
