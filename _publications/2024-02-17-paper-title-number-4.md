@@ -1,7 +1,7 @@
 ---
 title: "ARFID: a brief evidence review for Eating Disorders Awareness Week 2024"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-02-17
