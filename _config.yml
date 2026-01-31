@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Michelle Sader"
   pronouns         : "she/her"  
-  bio              : "Postdoctoral research fellow in translational neuroscience with extensive experience analysing complex, multimodal datasets. Demonstrable ability to translate data into actionable outputs across academic, clinical, and lived-experience contexts, with an extreme drive and passion for research."
+  bio              : "Postdoctoral research fellow in translational neuroscience with extensive experience analysing complex, multimodal datasets. Demonstrable ability to translate data into actionable outputs across academic, clinical, and lived- experience contexts, with an extreme drive and passion for research."
   location         : "Aberdeen"
   employer         : "The University of Aberdeen"
   uri              : # URL
@@ -44,19 +44,18 @@ author:
   pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Michelle-Sader"
   scopus           : # URL
-  zotero           : "https://www.abdn.ac.uk/people/michelle.sader3"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "sadermichelle"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
