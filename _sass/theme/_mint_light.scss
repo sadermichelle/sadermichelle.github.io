@@ -16,6 +16,7 @@ $link                      : #11999e;
 $link-dark                 : mix(#000, $link, 25%);
 $link-light                : mix(#fff, $link, 25%);
 $footer                    : #0f1614;
+$footer-text               : #e8f5f3;
 $border                    : mix(#fff, #40514e, 75%);
 $border-dark               : mix(#fff, #40514e, 60%);
 
@@ -58,7 +59,7 @@ $sidebar-screen-min-width   : 1024px;
 }
 
 footer {
-  color: #{$text};
+  color: #{$footer-text};
 }
 
 
