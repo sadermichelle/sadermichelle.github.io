@@ -1,27 +1,27 @@
-{
+ {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Dr Michelle Sader",
+    "email": "sadermichelle@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://sadermichelle.github.io",
+    "summary": "A postdoctoral research fellow in translational neuroscience with extensive experience analysing complex, multimodal datasets. Strong background in advanced statistical modelling, MRI analysis, multi-site collaborations and conducting co-produced, stakeholder-informed research. Demonstrable ability to translate data into actionable outputs across academic, clinical, and lived-experience contexts, with an extreme drive and passion for research.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "address": "37 Hammerman Drive",
+      "postalCode": "AB24 4SF",
+      "city": "Aberdeen",
+      "countryCode": "UK",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=WCoztWEAAAAJ&hl=en"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0000-0002-8068-7337"
       },
       {
         "network": "GitHub",
@@ -33,8 +33,8 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of Aberdeen",
+      "area": "Post",
       "studyType": "",
       "startDate": "",
       "endDate": "2018",
