@@ -2,7 +2,7 @@
 title: "The cerebellum plays more than one role in the dysregulation of appetite: review of structural evidence from typical and eating disorder populations"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-The-cerebellum-plays-more-than-one-role-in-the-dysregulation-of-appetite-review-of-structural-evidence-from-typical-and-eating-disorder-populations
+permalink: /publication/2023-12-13-The-cerebellum-plays-more-than-one-role-in-the-dysregulation-of-appetite-review-of-structural-evidence-from-typical-and-eating-disorder-populations
 excerpt: '<i><b>Abstract</b></i> <br>
 <br>
 <b>Objective:</b> Dysregulated appetite control is characteristic of anorexia nervosa (AN), bulimia nervosa (BN), and obesity (OB). Studies using a broad range of methods suggest the cerebellum plays an important role in aspects of weight and appetite control, and is implicated in both AN and OB by reports of aberrant gray matter volume (GMV) compared to nonclinical populations. As functions of the cerebellum are anatomically segregated, specific localization of aberrant anatomy may indicate the mechanisms of its relationship with weight and appetite in different states. We sought to determine if there were consistencies in regions of cerebellar GMV changes in AN/BN and OB, as well as across normative (NOR) variation. <br>
