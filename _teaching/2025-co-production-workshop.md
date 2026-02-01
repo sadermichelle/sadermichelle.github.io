@@ -29,5 +29,5 @@ researchers and stakeholders. The toolkit aims to enhance the robustness and rig
 practice for researchers at all career stages and across all disciplines to improve their
 participatory research practice. 
 
-Take a look at the toolkit [here(https://sadermichelle.github.io/teaching/)]!
+Take a look at the toolkit [here](https://sadermichelle.github.io/teaching/)!
 -----
