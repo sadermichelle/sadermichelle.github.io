@@ -5,13 +5,15 @@ category: manuscripts
 permalink: /publication/2022-04-22-A-meta‐analytic-investigation-of-grey matter-differences-in-anorexia-nervosa-and autism-spectrum-disorder
 excerpt: '<i>**Abstract**</i> <br>
 <br>
-Recent research reports Anorexia Nervosa (AN) to be highly dependent upon
+<b>Objective:</b> Recent research reports Anorexia Nervosa (AN) to be highly dependent upon
 neurobiological function. Some behaviours, particularly concerning food
 selectivity are found in populations with both Autism Spectrum Disorder
 (ASD) and AN, and there is a proportionally elevated number of anorexic
-patients exhibiting symptoms of ASD. We performed a systematic review of
+patients exhibiting symptoms of ASD. <br>
+<b>Methods:</b> We performed a systematic review of
 structural MRI literature with the aim of identifying common structural
-neural correlates common to both AN and ASD. Across 46 ASD publications, a
+neural correlates common to both AN and ASD. <br>
+<b>Results:</b> Across 46 ASD publications, a
 meta‐analysis of volumetric differences between ASD and healthy controls
 revealed no consistently affected brain regions. Meta‐analysis of 23 AN pub-
 lications revealed increased volume within the orbitofrontal cortex and medial
@@ -19,12 +21,13 @@ temporal lobe, and adult‐only AN literature revealed differences within the
 genu of the anterior cingulate cortex. The changes are consistent with alter-
 ations in flexible reward‐related learning and episodic memory reported in
 neuropsychological studies. There was no structural overlap between ASD and
-AN. Findings suggest no consistent neuroanatomical abnormality associated
+AN. <br>
+<b>Discussion:</b> Findings suggest no consistent neuroanatomical abnormality associated
 with ASD, and evidence is lacking to suggest that reported behavioural sim-
 ilarities between those with AN and ASD are due to neuroanatomical struc-
 tural similarities.<br>
 <br>
-<i><b>Keywords:</br> anorexia nervosa, autism spectrum disorder, emotion awareness, meta‐analysis, VBM</i>'
+<i><b>Keywords:</b> anorexia nervosa, autism spectrum disorder, emotion awareness, meta‐analysis, VBM</i>'
 date: 2022-04-22
 venue: 'European Eating Disorders Review'
 paperurl: 'https://onlinelibrary.wiley.com/doi/pdf/10.1002/erv.2915'
