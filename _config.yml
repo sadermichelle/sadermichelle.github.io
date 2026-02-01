@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Michelle Sader"
-  pronouns         : "*she/her*"  
+  pronouns         : "she/her"  
   bio              : "Postdoctoral research fellow in translational neuroscience with extensive experience analysing complex, multimodal datasets. Demonstrable ability to translate data into actionable outputs with an extreme drive and passion for scientific research."
   location         : "Aberdeen"
   employer         : "The University of Aberdeen"
@@ -271,10 +271,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _videos
   - scope:
       path: ""
-      type: portfolio
+      type: videos
     values:
       layout: single
       author_profile: true
@@ -284,6 +284,14 @@ defaults:
   - scope:
       path: ""
       type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+  # _toolkits
+  - scope:
+      path: ""
+      type: toolkits
     values:
       layout: talk
       author_profile: true
