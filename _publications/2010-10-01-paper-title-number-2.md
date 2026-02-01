@@ -3,7 +3,7 @@ title: "Prevalence and characterization of avoidant restrictive food intake diso
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: '**Abstract** <br> 
+excerpt: '<i>**Abstract**</i> <br> 
 <br>
 <b>Objective:</b> Avoidant/restrictive food intake disorder (ARFID) is a relatively new feeding and eating disorder category in DSM-5 characterized by extreme food avoidance/restriction. Much is unknown about ARFID, with limited understanding of its prevalence and comorbidities in general pediatric populations. This study aimed to classify ARFID prevalence and characteristics in children within the Generation R Study, a population-based Dutch cohort (N = 2,862).<br>
 <br>
@@ -14,7 +14,7 @@ excerpt: '**Abstract** <br>
 <b>Conclusion:</b> This is the first large-scale community-based study to characterize ARFID and to demonstrate that ARFID symptom classification is common in children aged ≤10 years. Findings suggest that appetitive, emotional, and behavioral comorbidities may underlie or reinforce the presentation of ARFID. <br>
 <br>
 <br>
-<b>Keywords:</b> ARFID, classification, pediatric, prevalence, symptomatology'
+<i><b>Keywords:</b> ARFID, classification, pediatric, prevalence, symptomatology</i>'
 date: 2023-05-23
 venue: 'JAACAP Open'
 paperurl: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC11562555/'
