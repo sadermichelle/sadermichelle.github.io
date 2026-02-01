@@ -18,5 +18,5 @@ excerpt: '<i>**Abstract**</i> <br>
 date: 2023-05-23
 venue: 'JAACAP Open'
 paperurl: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC11562555/'
-citation: '<b>Sader, M.,</b> Harris, H. A., Waiter, G. D., Jackson, M. C., Voortman, T., Jansen, P. W., & Williams, J. H. (2023). Prevalence and characterization of avoidant restrictive food intake disorder in a pediatric population. JAACAP Open, 1(2), 116-127.'
+citation: '<b>Sader, M.,</b> Harris, H. A., Waiter, G. D., Jackson, M. C., Voortman, T., Jansen, P. W., & Williams, J. H. (2023). Prevalence and characterization of avoidant restrictive food intake disorder in a pediatric population. <i>JAACAP Open, 1</i>(2), 116-127.'
 ---
