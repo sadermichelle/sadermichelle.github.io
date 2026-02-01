@@ -8,5 +8,5 @@ date: 2023-06-01
 location: "Aberdeen, Scotland"
 ---
 
-Co-supervision of undergraduate thesis honours projects.
+Co-supervision of undergraduate student thesis honours projects in Neuroscience with Psychology.
 
