@@ -11,10 +11,10 @@ excerpt: '<i>__Abstract__</i> <br>
 <br>
 <b>Results:</b> We identified 121 (6.1%) individuals with ARFID symptoms relative to 1,865 (93.9%) individuals without ARFID symptoms. Neuroanatomical findings identified significantly greater frontal (p = .00743; d = 0.21) and superior frontal (p = 6.56E-04; d = 0.28) cortical thickness among children with ARFID symptoms. <br>
 <br>
-<b>Conclusions:</b> This first large-scale study of the neural correlates of ARFID identified greater thickness of frontal cortical regions in children with ARFID symptoms, suggesting a role for executive function in the aetiology of the condition.' <br>
+<b>Conclusions:</b> This first large-scale study of the neural correlates of ARFID identified greater thickness of frontal cortical regions in children with ARFID symptoms, suggesting a role for executive function in the aetiology of the condition. <br>
 <br>
 <br>
-<i><b>Keywords:</i> ARFID, eating disorders, MRI, neuroanatomy, BMI, hunger awareness </b> 
+<i><b>Keywords:</i> ARFID, eating disorders, MRI, neuroanatomy, BMI, hunger awareness </b>' 
 date: 2024-12-02
 venue: 'Journal of Child Psychology and Psychiatry'
 paperurl: 'https://acamh.onlinelibrary.wiley.com/doi/full/10.1111/jcpp.14086'
