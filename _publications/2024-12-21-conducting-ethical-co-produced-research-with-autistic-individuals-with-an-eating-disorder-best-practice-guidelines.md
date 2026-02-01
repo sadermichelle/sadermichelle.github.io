@@ -8,7 +8,7 @@ excerpt: '<i>__Abstract:__</i> <br>
 There is a notable overlap between autism and eating disorders (EDs), and autistic individuals may experience poorer ED treatment outcomes than non-autistic peers. To make meaningful change in this field, it is imperative that we actively engage in co-production of research, however there are currently no guidelines to support co-production with autistic people with eating disorders. This paper reports on best practice guidelines that were co-produced across a series of workshops bringing together autistic people with EDs, researchers, clinicians, third-sector organisations, and parents/carers. The guidelines are intended to be used as a foundation for future co-produced autism and ED research. By creating a trusted, ethical co-production relationship, we hope to generate more clinically meaningful and translatable research. <br>
 <br>
 <br>
-<b><i>CLINICAL IMPLICATIONS</b></i> <br>
+<b><i>CLINICAL IMPLICATIONS </b></i> <br>
 <br>
 <br>
 There is increasing awareness of an overlap between autism and eating disorders and concerns around the effectiveness of eating disorder treatment for this population <br>
