@@ -1,5 +1,5 @@
 ---
-title: "Supervision of Undergraduate Students: Neuroscience with Psychology"
+title: "Undergraduate Students: Neuroscience with Psychology"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023_honours
