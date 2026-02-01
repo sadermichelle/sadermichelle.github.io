@@ -1,0 +1,17 @@
+---
+title: 'Barriers and facilitators to ethical co-production with Autistic people with an eating disorder'
+collection: publications
+category: manuscripts
+permalink: /publication/2024-08-09-paper-title-number-barriers-and-facilitators-to-ethical-co-production-with-Autistic-people-with-an-eating-disorder
+excerpt: '<i>__Abstract:__</i> <br>
+<br>
+<b>Background:</b> Co-production is the collaboration between researchers and the lived experience community in designing, conducting and sharing research. The importance of co-production is increasingly advocated in both the autism and eating disorder fields. Despite this, there remains a lack of clarity at how to define, apply and conduct ethical co-production. Understanding common challenges and what we can do to overcome these challenges are integral to ensuring ethical and meaningful research with Autistic people with an eating disorder. The current study therefore explored: What are the barriers and facilitators to ethical co-production with Autistic people with an ED? <br>
+<br>
+<b>Methods:</b> Five workshops were conducted with 30 collaborators exploring barriers and facilitators to ethical co-production. Synchronous (online workshops) and asynchronous (offline discussion forum) data was analysed using thematic analysis. Themes were co-produced by a neurotypical and Autistic researcher with lived/living experience of an eating disorder. Results: Four themes were identified that explored barriers to ethical co-production: unequal partnerships, the inaccessibility of research, excluded by diagnoses and communication differences. Three themes were identified with regards to facilitators of ethical co-production: shared power (with sub-themes relationships, not roles and creative compensation), clarity and transparency and autism-affirming approaches. <br>
+<br>
+<b>Discussion:</b> Conducting ethical co-production with Autistic people with eating disorders has the potential to generate meaningful research that can be translated into improving the lives of the Autistic and eating disorder community. To achieve this, co-production teams should strive towards shared power and long-term relationships, adapting for communication differences and preferences and operating firmly within an autism-affirming framework. It is hoped that study findings will inspire collaboration, discussion and novel, translatable research.'
+date: 2024-08-09
+venue: 'Journal of Eating Disorders'
+paperurl: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC11312805/'
+citation: 'Duffy, F., Gillespie-Smith, K., Sharpe, H., Buchan, K., Nimbley, E., Maloney, E., <b>Sader, M.</b>, … & Tchanturia, K. (2024). Barriers and facilitators to ethical co-production with Autistic people with an eating disorder. <i>Journal of Eating Disorders</i>.'
+---
