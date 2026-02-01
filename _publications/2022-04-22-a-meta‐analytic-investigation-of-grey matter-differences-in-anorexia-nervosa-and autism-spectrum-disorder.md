@@ -2,7 +2,7 @@
 title: "A meta‐analytic investigation of grey matter differences in anorexia nervosa and autism spectrum disorder"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-04-22-A-meta‐analytic-investigation-of-grey matter-differences-in-anorexia-nervosa-and autism-spectrum-disorder
+permalink: /publication/2022-04-22-a-meta‐analytic-investigation-of-grey matter-differences-in-anorexia-nervosa-and autism-spectrum-disorder
 excerpt: '<i>**Abstract**</i> <br>
 <br>
 <b>Objective:</b> Recent research reports Anorexia Nervosa (AN) to be highly dependent upon
