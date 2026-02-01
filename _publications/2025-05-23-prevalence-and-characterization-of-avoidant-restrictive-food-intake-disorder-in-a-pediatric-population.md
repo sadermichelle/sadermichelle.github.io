@@ -2,7 +2,7 @@
 title: "Prevalence and characterization of avoidant restrictive food intake disorder in a pediatric population"
 collection: publications
 category: manuscripts
-permalink: /publication/Prevalence-and-characterization-of-avoidant-restrictive-food-intake-disorder-in-a-pediatric-population
+permalink: /publication/2023-05-23-prevalence-and-characterization-of-avoidant-restrictive-food-intake-disorder-in-a-pediatric-population
 excerpt: '<i>**Abstract**</i> <br> 
 <br>
 <b>Objective:</b> Avoidant/restrictive food intake disorder (ARFID) is a relatively new feeding and eating disorder category in DSM-5 characterized by extreme food avoidance/restriction. Much is unknown about ARFID, with limited understanding of its prevalence and comorbidities in general pediatric populations. This study aimed to classify ARFID prevalence and characteristics in children within the Generation R Study, a population-based Dutch cohort (N = 2,862).<br>
