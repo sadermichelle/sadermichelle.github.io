@@ -10,7 +10,6 @@ There is a notable overlap between autism and eating disorders (EDs), and autist
 <br>
 <i><b>Clinical Implications</b></i> <br>
 <br>
-<br>
 There is increasing awareness of an overlap between autism and eating disorders and concerns around the effectiveness of eating disorder treatment for this population <br>
 <br>
 There is a lack of research with autistic individuals with eating disorders and a pressing need to prioritise meaningful co-produced research <br>
