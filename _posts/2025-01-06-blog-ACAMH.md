@@ -10,7 +10,7 @@ tags:
 
 <b> Magnetic resonance imaging (MRI)</b> scans of children showing symptoms of <avoidant/restrictive food intake disorder (ARFID) show differences in certain brain regions relative to children without ARFID symptoms. Findings from this work serve to improve our general understanding of ARFID and may help inform on ARFID-related services or our understanding of ARFID. <br>
 <br>
-Read the post here [here](https://www.acamh.org/blog/brain-differences-in-children-who-show-symptoms-of-avoidant-restrictive-food-intake-disorder-arfid/)
+Read the post [here](https://www.acamh.org/blog/brain-differences-in-children-who-show-symptoms-of-avoidant-restrictive-food-intake-disorder-arfid/)
 
 Background
 ======
