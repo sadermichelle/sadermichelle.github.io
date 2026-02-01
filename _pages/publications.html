@@ -19,10 +19,10 @@ author_profile: true
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
       {% if post.category != category[0] %}
-        <script>console.log("Test");</script>
         {% continue %}
       {% endif %}
       {% unless title_shown %}
+        <script>console.log("Title: " + {{ category[1].title }});</script>
         <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
