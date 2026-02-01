@@ -14,7 +14,7 @@ excerpt: '<i>__Abstract__</i> <br>
 <b>Conclusions:</b> This first large-scale study of the neural correlates of ARFID identified greater thickness of frontal cortical regions in children with ARFID symptoms, suggesting a role for executive function in the aetiology of the condition. <br>
 <br>
 <br>
-<i><b>Keywords:</i> ARFID, eating disorders, MRI, neuroanatomy, BMI, hunger awareness </b>' 
+<i><b>Keywords:</b> ARFID, eating disorders, MRI, neuroanatomy, BMI, hunger awareness </i>' 
 date: 2024-12-02
 venue: 'Journal of Child Psychology and Psychiatry'
 paperurl: 'https://acamh.onlinelibrary.wiley.com/doi/full/10.1111/jcpp.14086'
