@@ -10,9 +10,11 @@ neurobiological function. Some behaviours, particularly concerning food
 selectivity are found in populations with both Autism Spectrum Disorder
 (ASD) and AN, and there is a proportionally elevated number of anorexic
 patients exhibiting symptoms of ASD. <br>
+<br>
 <b>Methods:</b> We performed a systematic review of
 structural MRI literature with the aim of identifying common structural
 neural correlates common to both AN and ASD. <br>
+<br>
 <b>Results:</b> Across 46 ASD publications, a
 meta‐analysis of volumetric differences between ASD and healthy controls
 revealed no consistently affected brain regions. Meta‐analysis of 23 AN pub-
@@ -22,10 +24,12 @@ genu of the anterior cingulate cortex. The changes are consistent with alter-
 ations in flexible reward‐related learning and episodic memory reported in
 neuropsychological studies. There was no structural overlap between ASD and
 AN. <br>
+<br>
 <b>Discussion:</b> Findings suggest no consistent neuroanatomical abnormality associated
 with ASD, and evidence is lacking to suggest that reported behavioural sim-
 ilarities between those with AN and ASD are due to neuroanatomical struc-
 tural similarities.<br>
+<br>
 <br>
 <i><b>Keywords:</b> anorexia nervosa, autism spectrum disorder, emotion awareness, meta‐analysis, VBM</i>'
 date: 2022-04-22
