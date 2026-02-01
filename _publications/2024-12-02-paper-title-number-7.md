@@ -1,5 +1,5 @@
 ---
-title: 'Barriers and facilitators to ethical co-production with Autistic people with an eating disorder'
+title: 'Neural correlates of children with avoidant restrictive food intake disorder symptoms: large‐scale neuroanatomical analysis of a paediatric population'
 collection: publications
 category: manuscripts
 permalink: /publication/2024-12-02-paper-title-number-7
