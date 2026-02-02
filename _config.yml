@@ -225,10 +225,13 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  videos:
     output: true
     permalink: /:collection/:path/
   talks:
+    output: true
+    permalink: /:collection/:path/
+ toolkits:
     output: true
     permalink: /:collection/:path/
 
