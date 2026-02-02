@@ -231,12 +231,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
- toolkits:
-    output: true
-    permalink: /:collection/:path/
- videos:
-    output: true
-    permalink: /:collection/:path/
+
 
 # These settings control how pages and collections are included in the site
 defaults:
