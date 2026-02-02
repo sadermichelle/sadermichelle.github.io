@@ -1,7 +1,16 @@
 ---
-title: "Toolkit item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Toolkits"
+layout: single
 collection: toolkits
+permalink: /toolkits/coproduction-workshop/
+gallery:
+  - image_path: /images/toolkits/toolkit1.jpg
+    alt: "The Real PPI: The Researcher's Toolkit"
+    caption: "Lived-experience and researcher discussion groups"
+  - image_path: /images/toolkits/workshop2.jpg
+    alt: "Toolkit activities"
+    caption: "Co-design activities in progress"
+  - image_path: /images/toolkits/workshop3.jpg
+    alt: "Hybrid event setup"
+    caption: "Hybrid workshop setup in Edinburgh"
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
