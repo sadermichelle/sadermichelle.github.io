@@ -6,11 +6,8 @@ permalink: /toolkits/coproduction-workshop/
 gallery:
   - image_path: /images/toolkits/toolkit1.jpg
     alt: "The Real PPI: The Researcher's Toolkit"
-    caption: "Lived-experience and researcher discussion groups"
-  - image_path: /images/toolkits/workshop2.jpg
-    alt: "Toolkit activities"
-    caption: "Co-design activities in progress"
-  - image_path: /images/toolkits/workshop3.jpg
-    alt: "Hybrid event setup"
-    caption: "Hybrid workshop setup in Edinburgh"
+    caption: "35-page toolkit on incorporating research co-production"
+  - image_path: /images/toolkits/toolkit2.jpg
+    alt: "About the Brain: Autism and Eating Disorders"
+    caption: "a 3-page booklet covering brain structure, autism and eating disorders"
 ---
