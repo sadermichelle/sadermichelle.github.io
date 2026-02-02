@@ -1,9 +1,7 @@
 ---
-permalink: /toolkits
+layout: page
 title: "Toolkits"
-author_profile: true
-redirect_from: 
-  - /toolkit
+permalink: /toolkits
 ---
 
 This is a test
