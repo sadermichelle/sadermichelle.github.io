@@ -2,8 +2,7 @@
 permalink: /contact
 title: "Contact"
 redirect_from: 
-  - /contact/
-  - /contact.html
+  - /contact-me
 ---
 
 This is a test
