@@ -2,7 +2,7 @@
 title: "Toolkits"
 layout: single
 collection: toolkits
-permalink: /toolkits/coproduction-workshop/
+permalink: /toolkits/
 gallery:
   - image_path: /images/toolkits/toolkit1.jpg
     alt: "The Real PPI: The Researcher's Toolkit"
