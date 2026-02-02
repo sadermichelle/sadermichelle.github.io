@@ -1,5 +1,5 @@
 ---
-permalink: /toolkits
+permalink: /toolkits/
 title: "Toolkits"
 redirect_from: 
   - /toolkit
