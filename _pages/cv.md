@@ -65,14 +65,15 @@ Awards & Funding
 Professional Skills
 ======
 * **Data Analysis & Programming**
-  * _Python, R, MATLAB, SPSS, multivariate linear models, Bayesian statistics, predictive machine learning, longitudinal data analysis, large-scale data handling_
+  * _Python, R, MATLAB, SPSS, multivariate linear models, Bayesian statistics, predictive machine learning, longitudinal data analysis, large-scale data handling_ <br>
 * **Neuroimaging Analysis**
-  * _FreeSurfer, DSI Studio, fMRIPrep, FMRIB software library, statistical parametric mapping, activation-likelihood estimation, voxel-based morphometry_
+  * _FreeSurfer, DSI Studio, fMRIPrep, FMRIB software library, statistical parametric mapping, activation-likelihood estimation, voxel-based morphometry_ <br>
 * **Research & Project Manangement**
-  * _Grant writing, publication reviews, project coordination and admin, multi-site/multi-disciplinary collaboration, research co-production, co-lead of research network, mixed-methods publication output, website management (HTML); special edition journal management_
+  * _Grant writing, publication reviews, project coordination and admin, multi-site/multi-disciplinary collaboration, research co-production, co-lead of research network, mixed-methods publication output, website management (HTML); special edition journal management_ <br>
 * **Communication and Scientific Outreach**
-* _Research press releases, invited speaker on news broadcasts (That’s TV Scotland, ITV), radio broadcasts (BBC Scotland; Northsound1) podcast episodes (ACAMH Learn; JenUP), and seminars (King’s College London; NHS Grampian CAMHS; University of Edinburgh; SINAPSE; University of Aberdeen)_
-    
+  * _Research press releases, invited speaker on news broadcasts (That’s TV Scotland, ITV), radio broadcasts (BBC Scotland; Northsound1) podcast episodes (ACAMH Learn; JenUP), and seminars (King’s College London; NHS Grampian CAMHS; University of Edinburgh; SINAPSE; University of Aberdeen)_
+<br>
+
 Recent Publications (_Full list available on Publications tab_)
 ======
 1.	 **Sader, M.,** Halls., D., Kerr-Gaffney, J., Waiter, G., Gillespie-Smith, K., Duffy, F., Tchanturia, K. (2025) Neuroanatomical Associations with Autistic Characteristics in those with Acute Anorexia Nervosa and Weight-Restored Individuals. Psychological Medicine. 
