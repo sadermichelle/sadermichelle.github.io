@@ -24,6 +24,13 @@ redirect_from:
 <div class="toolkit">
   <h2>About the Brain: Autism and Eating Disorders</h2>
   <img src="https://raw.githubusercontent.com/sadermichelle/sadermichelle.github.io/refs/heads/master/images/toolkits/toolkit2.png" alt="toolkit-2" style="border-radius: 8px; padding-top: 20px; padding-bottom: 20px;"/>
-  <p>In collaboration with the <a href="https://peacepathway.org/">PEACE Pathway</a>, Dr Michelle Sader explains how brain scans can help us understand the connection between autism and eating disorders. Learn about the latest research and how these insights could improve treatment. </p>
+  <p>'About the Brain', designed in collaboration with the <a href="https://peacepathway.org/">PEACE Pathway</a>, explains how brain scans can help us understand the connection between autism and eating disorders. Learn about the latest research and how these insights could improve treatment. </p>
  <p>Find out how to stay involved with the work of the PEACE Pathway and EDAC, and read the toolkit <a href="https://www.peacepathway.org/download/60">here</a>!</p>
+</div>
+
+<div class="toolkit">
+  <h2>Research Terminology Index</h2>
+  <img src="https://raw.githubusercontent.com/sadermichelle/sadermichelle.github.io/refs/heads/master/images/toolkits/toolkit3.png" alt="toolkit-2" style="border-radius: 8px; padding-top: 20px; padding-bottom: 20px;"/>
+  <p> Tired of trying to understand (or communicate) scientific jargon? Take a look at a research terminology index I made for EDAC, which is a 10-page resource defining important key words or approaches used in the research landscape. </p>
+ <p>Read the toolkit <a href="https://www.peacepathway.org/download/60">here</a>!</p>
 </div>
