@@ -1,14 +1,9 @@
 ---
-layout: archive
+permalink: /Toolkits
 title: "Toolkits"
-permalink: /toolkits/
 author_profile: true
+redirect_from: 
+  - /Toolkit
 ---
 
-{% include base_path %}
-{% include gallery %}
-
-
-{% for post in site.toolkits reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+This is a test
