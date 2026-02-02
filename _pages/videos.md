@@ -13,7 +13,7 @@ redirect_from:
 <h4>Learning Objectives</h4>
 <p><i>1. An overview of ARFID and existing neuroimaging research on ARFID.</i></p>
 <p><i>2. Determine whether altered brain morphology is associated with ARFID symptomatology.</i></p>
-<p><i>3. Evaluate and compare brain morphology in children with and without ARFID.</i> </p>
+<p><i>3. Evaluate and compare brain morphology in children with and without ARFID.</i></p>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/Vabpuc0fIl8?si=ctCsrqUZW9ait62I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
