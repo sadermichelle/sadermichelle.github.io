@@ -11,13 +11,10 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Videos"
+  - title: "Videos & Talks"
     url: /videos/
         
   - title: "Blog Posts"
