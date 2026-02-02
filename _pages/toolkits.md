@@ -5,4 +5,6 @@ redirect_from:
   - /toolkit
 ---
 
-This is a test
+<div class="test">
+  <img src="https://edacresearch.co.uk/img/news/Screenshot_2025-12-16_134140.png" alt="pic" />
+</div>
