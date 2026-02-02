@@ -1,9 +1,9 @@
 ---
-permalink: /Toolkits
+permalink: /toolkits
 title: "Toolkits"
 author_profile: true
 redirect_from: 
-  - /Toolkit
+  - /toolkit
 ---
 
 This is a test
