@@ -23,7 +23,7 @@ redirect_from:
 
 <div class="toolkit">
   <h2>About the Brain: Autism and Eating Disorders</h2>
-  <img src="https://raw.githubusercontent.com/sadermichelle/sadermichelle.github.io/refs/heads/master/images/toolkits/toolkit1.jpg" alt="toolkit-1" style="border-radius: 8px; padding-top: 20px; padding-bottom: 20px;"/>
+  <img src="https://raw.githubusercontent.com/sadermichelle/sadermichelle.github.io/refs/heads/master/images/toolkits/toolkit2.jpg" alt="toolkit-1" style="border-radius: 8px; padding-top: 20px; padding-bottom: 20px;"/>
   <p>In collaboration with the <a href="https://peacepathway.org/">PEACE Pathway</a>, Dr Michelle Sader explains how brain scans can help us understand the connection between autism and eating disorders. Learn about the latest research and how these insights could improve treatment. </p>
  <p>Find out how to stay involved with the work of the PEACE Pathway and EDAC, and read the toolkit (<a href="https://www.peacepathway.org/download/60">here!<a/>). </p>
 </div>
