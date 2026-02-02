@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Toolkits"
-permalink: /toolkits
+title: Toolkits
+permalink: /toolkits/
 ---
 
 This is a test
