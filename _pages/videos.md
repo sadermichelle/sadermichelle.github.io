@@ -29,3 +29,9 @@ redirect_from:
   <p>Description goes here</p>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/VbBvygPSqdc?si=V_M-qkjjk6y8fTHd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+
+<div class="podcast-section">
+  <h2>Title</h2>
+  <p>Description goes here</p>
+  <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/episode/7KrZt7ojNMwRibFjbOhnTl?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
