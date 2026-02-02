@@ -225,7 +225,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  videos:
+  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -234,7 +234,9 @@ collections:
  toolkits:
     output: true
     permalink: /:collection/:path/
-
+ videos:
+    output: true
+    permalink: /:collection/:path/
 
 # These settings control how pages and collections are included in the site
 defaults:
