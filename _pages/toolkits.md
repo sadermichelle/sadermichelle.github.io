@@ -6,7 +6,7 @@ redirect_from:
 ---
 
 <div class="toolkit">
-  <h2>Toolkit 1: "The Real PPI": The Researcher's Toolkit</h2>
+  <h2>"The Real PPI": The Researcher's Toolkit</h2>
   <img src="https://raw.githubusercontent.com/sadermichelle/sadermichelle.github.io/refs/heads/master/images/toolkits/toolkit1.jpg" alt="toolkit-1" style="border-radius: 8px; padding-top: 20px; padding-bottom: 20px;"/>
   <p>In collaboration with Dr Gordon Waiter and the <a href="https://www.sinapse.ac.uk">Scottish Imaging Network: A Platform for Scientific Excellence (SINAPSE)</a>, I am delighted to present our co-production toolkit, titled ‘“The Real PPI” The Researcher’s Toolkit’!</p>
   <h3>What is co-production?</h3>
@@ -19,4 +19,11 @@ redirect_from:
 <p>The Researcher’s Toolkit consolidates best practice guidance on co-producing research forresearchers and stakeholders. The toolkit aims to enhance the robustness and rigour ofpractice for researchers at all career stages and across all disciplines to improve their participatory research practice. </p>
 
 <p>Have a read of our toolkit (<a href="https://www.sinapse.ac.uk/wp-content/uploads/2026/01/Workshop-Toolkit.pdf">here!</a>)</p>
+</div>
+
+<div class="toolkit">
+  <h2>About the Brain: Autism and Eating Disorders</h2>
+  <img src="https://raw.githubusercontent.com/sadermichelle/sadermichelle.github.io/refs/heads/master/images/toolkits/toolkit1.jpg" alt="toolkit-1" style="border-radius: 8px; padding-top: 20px; padding-bottom: 20px;"/>
+  <p>In collaboration with the <a href="https://peacepathway.org/">PEACE Pathway</a>, Dr Michelle Sader explains how brain scans can help us understand the connection between autism and eating disorders. Learn about the latest research and how these insights could improve treatment. </p>
+ <p>Find out how to stay involved with the work of the PEACE Pathway and EDAC, and read the toolkit (<a href="https://www.peacepathway.org/download/60">here!<a/>). </p>
 </div>
