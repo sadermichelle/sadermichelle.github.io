@@ -30,7 +30,7 @@ redirect_from:
 
 <div class="toolkit">
   <h2>Research Terminology Index</h2>
-  <img src="https://raw.githubusercontent.com/sadermichelle/sadermichelle.github.io/refs/heads/master/images/toolkits/toolkit3.png" alt="toolkit-2" style="border-radius: 8px; padding-top: 20px; padding-bottom: 20px;"/>
+  <img src="https://raw.githubusercontent.com/sadermichelle/sadermichelle.github.io/refs/heads/master/images/toolkits/Toolkit3.png" alt="toolkit-3" style="border-radius: 8px; padding-top: 20px; padding-bottom: 20px;"/>
   <p> Tired of trying to understand (or communicate) scientific jargon? Take a look at a research terminology index I made for EDAC, which is a 10-page resource defining important key words or approaches used in the research landscape. </p>
  <p>Read the toolkit <a href="https://www.peacepathway.org/download/60">here</a>!</p>
 </div>
