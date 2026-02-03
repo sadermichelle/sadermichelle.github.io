@@ -17,4 +17,4 @@ I completed my **PhD** in Translational Neuroscience at the University of Aberde
 
 Central to my work is a commitment to ethical, impactful, and co-produced research. Through my role in the UKRI-funded **Eating Disorders and Autism Collaborative (EDAC)**, I aim to collaborate closely with individuals with lived experience, clinicians, and researchers to ensure that research is inclusive, meaningful, and capable of changing lives. My own previous lived experience with a diagnosis of major depressive disorder, panic disorder, generalised anxiety disorder, PTSD and anorexia nervosa are fundamental to who I am as a person and as a researcher.
 
-<div style="display:flex;justify-content:center;align-items:center;"> <img src="https://raw.githubusercontent.com/sadermichelle/sadermichelle.github.io/refs/heads/master/images/Brain.png" width = "199" height="200" alt="brain" style="border-radius: 8px; padding-top: 20px; padding-bottom: 20px;"/></div>
+
