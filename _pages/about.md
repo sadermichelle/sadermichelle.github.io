@@ -12,7 +12,7 @@ redirect_from:
 
 <br>
 <br>
-<center>I am a postdoctoral research fellow in <b>translational neuroscience</b>, driven by a fascination with the brain as one of the most complex and remarkable systems we know. My research combines neuroimaging, data analysis, and psychology to explore how brain structure and function support emotion, appetite, and behaviour across both typical and clinical populations, with a particular focus on eating disorders, autism, and <b>avoidant/restrictive food intake disorder (ARFID)</b>.</center>
+<center>I am a postdoctoral research fellow in <b>translational neuroscience</b>, driven by a fascination with the brain as one of the most complex and remarkable systems we know. My research combines neuroimaging, data analysis, and psychology to explore how brain structure and function support emotion, appetite, and behaviour across both typical and clinical populations, with a particular focus on eating disorders, autism, and <b>avoidant/restrictive food intake disorder (ARFID)</b>.</center> <br>
 
 <div style="display:flex;justify-content:center;align-items:center;"> <img src="https://raw.githubusercontent.com/sadermichelle/sadermichelle.github.io/refs/heads/master/images/Brain.png" width = "199" height="200" alt="brain" style="border-radius: 8px; padding-top: 20px; padding-bottom: 20px;"/></div>
 
